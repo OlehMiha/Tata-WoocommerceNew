@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88e0b23c-fa45-4dfc-a83a-231b7cba81b7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="woocommerce.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/woocommerce.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="239" column="41" lean-forward="true" selection-start-line="239" selection-start-column="41" selection-end-line="239" selection-end-column="41" />
+              <folding>
+                <marker date="1523991095230" expanded="true" signature="754:1874" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="886:1542" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="939:1351" ph="{...}" />
+                <marker date="1523991095230" expanded="true" signature="941:1351" ph="{...}" />
+                <marker date="1523991095230" expanded="true" signature="1056:1103" ph="{...}" />
+                <marker date="1523991095230" expanded="true" signature="1071:1099" ph="{...}" />
+                <marker date="1523991095230" expanded="true" signature="1148:1172" ph="{...}" />
+                <marker date="1523991095230" expanded="true" signature="1404:1522" ph="{...}" />
+                <marker date="1523991095230" expanded="true" signature="1551:1866" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="1605:1855" ph="{&quot;nextButton&quot;: \'.swiper-button-next3\'...}" />
+                <marker date="1523991095230" expanded="true" signature="7228:7539" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="7480:7533" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="8764:9030" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="8801:8924" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="8955:9030" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="8995:9030" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="9506:9772" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="9543:9660" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="9691:9772" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="9733:9772" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="10053:10096" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="20991:21029" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="22488:22890" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="22723:22890" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="23344:23416" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="23460:24316" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="23558:23747" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="23794:23980" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="24080:24269" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="24374:24566" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="24696:25114" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="24782:25114" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="24839:25114" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="24881:25114" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="24985:25114" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="25593:25627" ph="..." />
+                <marker date="1523991095230" expanded="true" signature="26163:26266" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form-checkout.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/woocommerce/checkout/form-checkout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-78">
+              <caret line="59" column="40" lean-forward="true" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart-totals.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/woocommerce/cart/cart-totals.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="50" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/woocommerce/cart/cart.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="76" column="32" lean-forward="false" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payment.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/woocommerce/checkout/payment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart-shipping.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/woocommerce/cart/cart-shipping.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="33" column="118" lean-forward="false" selection-start-line="33" selection-start-column="118" selection-end-line="33" selection-end-column="118" />
+              <folding>
+                <marker date="1524004158064" expanded="true" signature="1158:1402" ph="..." />
+                <marker date="1524004158064" expanded="true" signature="1158:1458" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\e021</find>
+      <find>woocommerce_after_single_product_summarywoocommerce_after_single_product_summarywoocommerce_after_single_product_summarywoocommerce_after_single_product_summary</find>
+      <find>&amp;nbsp</find>
+      <find>wrap_together</find>
+      <find>$product</find>
+      <find>data-fancybox-close</find>
+      <find>Omit</find>
+      <find>Omit closing PHP tag at the end of PHP files to avoid &quot;headers already sent&quot; issues.</find>
+      <find>checkout_total</find>
+      <find>search</find>
+      <find>wrap_basket</find>
+      <find>my_wc_get_gallery_image_html</find>
+      <find>remove_comment_fields</find>
+      <find>blue_btn</find>
+      <find>range</find>
+      <find>title_filter</find>
+      <find>use strict</find>
+      <find>checked</find>
+      <find>new</find>
+      <find>new Plugin</find>
+      <find>Plugin</find>
+      <find>styler</find>
+      <find>woocommerce-checkout-payment</find>
+      <find>10,8</find>
+      <find>woocommerce_form_field</find>
+      <find>title_checkout</find>
+      <find>next_btn</find>
+      <find>&lt;td&gt;Стоимость доставки&lt;/td&gt;</find>
+      <find>orng_btn</find>
+      <find>Стоимость доставки</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;?php bloginfo('template_url'); ?&gt;</replace>
+      <replace>&lt;?php do_active('woocommerce_before_main_content'); ?&gt;</replace>
+      <replace />
+      <replace>src=&quot;&lt;?php bloginfo('template_url'); ?&gt;/img/</replace>
+      <replace>\f006</replace>
+      <replace>\0000a0</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/woocommerce/loop/pagination.php" />
+        <option value="$PROJECT_DIR$/woocommerce/loop/result-count.php" />
+        <option value="$PROJECT_DIR$/filtr/views/html_types/checkbox.php" />
+        <option value="$PROJECT_DIR$/woocommerce/global/wrapper-start.php" />
+        <option value="$PROJECT_DIR$/woocommerce/global/wrapper-end.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/sale-flash.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/product-thumbnails.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/title.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/add-to-cart/external.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/add-to-cart/grouped.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/short-description.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/tabs/tabs.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/tabs/description.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/product-attributes.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/tabs/additional-information.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/review-meta.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/review.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product-reviews.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/related.php" />
+        <option value="$PROJECT_DIR$/woocommerce/content-product.php" />
+        <option value="$PROJECT_DIR$/woocommerce/content-product2.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/woocommerce/loop/add-to-cart.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/js/ajax-add.js" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/up-sells.php" />
+        <option value="$PROJECT_DIR$/search.php" />
+        <option value="$PROJECT_DIR$/woocommerce/archive-product.php" />
+        <option value="$PROJECT_DIR$/woocommerce/cart/cart.php" />
+        <option value="$PROJECT_DIR$/woocommerce/cart/cross-sells.php" />
+        <option value="$PROJECT_DIR$/page-main.php" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/woocommerce/content-single-product.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/add-to-cart/simple.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/product-image.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/js/formstyler.js" />
+        <option value="$PROJECT_DIR$/woocommerce/checkout/payment-method.php" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/woocommerce/checkout/form-shipping.php" />
+        <option value="$PROJECT_DIR$/functions/woocommerce.php" />
+        <option value="$PROJECT_DIR$/woocommerce/checkout/review-order.php" />
+        <option value="$PROJECT_DIR$/woocommerce/checkout/form-checkout.php" />
+        <option value="$PROJECT_DIR$/woocommerce/checkout/order-receipt.php" />
+        <option value="$PROJECT_DIR$/woocommerce/cart/cart-totals.php" />
+        <option value="$PROJECT_DIR$/woocommerce/checkout/payment.php" />
+        <option value="$PROJECT_DIR$/woocommerce/cart/cart-shipping.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="4" />
+    <option name="width" value="1936" />
+    <option name="height" value="920" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tata" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tata" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="functions" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tata" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tata" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="cart" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tata" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="checkout" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/БотПацанов/revcom_bot_php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WebServers\home\test\www\GitHub\Еще 1 woo\tata" />
+      <recent name="E:\WebServers\home\test\www\GitHub\Еще 1 woo\tata\functions" />
+      <recent name="E:\WebServers\home\test\www\GitHub\Еще 1 woo\tata\template-parts\navigation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88e0b23c-fa45-4dfc-a83a-231b7cba81b7" name="Default" comment="" />
+      <created>1522348325715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522348325715</updated>
+      <workItem from="1522348327251" duration="4626000" />
+      <workItem from="1522399914104" duration="18493000" />
+      <workItem from="1522499617493" duration="687000" />
+      <workItem from="1522674172561" duration="13380000" />
+      <workItem from="1522758488767" duration="1519000" />
+      <workItem from="1522762446158" duration="16701000" />
+      <workItem from="1522843904154" duration="14541000" />
+      <workItem from="1522935598407" duration="33283000" />
+      <workItem from="1523022528992" duration="16310000" />
+      <workItem from="1523363337749" duration="14576000" />
+      <workItem from="1523450239183" duration="9381000" />
+      <workItem from="1523533915822" duration="7717000" />
+      <workItem from="1523613185260" duration="9745000" />
+      <workItem from="1523876994167" duration="11673000" />
+      <workItem from="1523967767978" duration="21483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="194115000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1572529" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.06602476" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24967907" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1572529" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.06602476" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24967907" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/woocommerce/loop/pagination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="44" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/single-product/review.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="46" column="51" lean-forward="false" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/single-product/review-meta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/single-product/related.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/content-product2.php" />
+    <entry file="file://$PROJECT_DIR$/woocommerce/loop/add-to-cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="34" column="57" lean-forward="false" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/single-product-reviews.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="115" column="0" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding>
+            <marker date="1522966279269" expanded="true" signature="2807:3635" ph="..." />
+            <marker date="1522966279269" expanded="true" signature="2823:2834" ph="..." />
+            <marker date="1522966279269" expanded="true" signature="2891:3629" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/single-product/up-sells.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/content-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="27" column="52" lean-forward="false" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/archive-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2112">
+          <caret line="111" column="51" lean-forward="false" selection-start-line="111" selection-start-column="20" selection-end-line="111" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/cart/cross-sells.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5896">
+          <caret line="268" column="21" lean-forward="false" selection-start-line="268" selection-start-column="21" selection-end-line="268" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/single-product/add-to-cart/simple.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="60" selection-start-column="16" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/single-product/add-to-cart/variable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/single-product/add-to-cart/variation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="78" lean-forward="false" selection-start-line="33" selection-start-column="78" selection-end-line="33" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/taxonomy-product_cat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/single-product/add-to-cart/grouped.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1936">
+          <caret line="102" column="82" lean-forward="false" selection-start-line="102" selection-start-column="82" selection-end-line="102" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/single-product/add-to-cart/external.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="24" column="120" lean-forward="false" selection-start-line="24" selection-start-column="120" selection-end-line="24" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/nouislider.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="2" column="17418" lean-forward="false" selection-start-line="2" selection-start-column="17413" selection-end-line="2" selection-end-column="17418" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69520">
+          <caret line="3160" column="29" lean-forward="false" selection-start-line="3160" selection-start-column="23" selection-end-line="3160" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/swiper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/fancybox.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ajax-add.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="113" column="6" lean-forward="true" selection-start-line="113" selection-start-column="6" selection-end-line="113" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1046">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page-main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="69" column="43" lean-forward="true" selection-start-line="69" selection-start-column="43" selection-end-line="69" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <marker date="1523621173286" expanded="true" signature="3108:3255" ph="..." />
+            <marker date="1523621173286" expanded="true" signature="5760:5849" ph="..." />
+            <marker date="1523621173286" expanded="true" signature="16713:16859" ph="SELECT t.ter... ${$wpdb-&gt;terms}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/formstyler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="15" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <marker date="1523886980184" expanded="true" signature="16002:16020" ph="..." />
+            <marker date="1523886980184" expanded="true" signature="17112:17130" ph="..." />
+            <marker date="1523886980184" expanded="true" signature="17179:17251" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/single-product/product-image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="60" column="71" lean-forward="false" selection-start-line="60" selection-start-column="71" selection-end-line="60" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="165" column="9" lean-forward="false" selection-start-line="165" selection-start-column="9" selection-end-line="165" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/checkout/payment-method.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/checkout/terms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522417232901" expanded="true" signature="644:693" ph="..." />
+            <marker date="1522417232901" expanded="true" signature="1141:1148" ph="’" />
+            <marker date="1522417232901" expanded="true" signature="1252:1257" ph="&amp;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/checkout/form-shipping.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="84" column="33" lean-forward="true" selection-start-line="84" selection-start-column="33" selection-end-line="85" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/checkout/form-checkout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="59" column="40" lean-forward="true" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/checkout/form-billing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1002">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/checkout/form-pay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/checkout/review-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="147" column="18" lean-forward="false" selection-start-line="132" selection-start-column="36" selection-end-line="147" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/checkout/order-receipt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/content-single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="239" column="41" lean-forward="true" selection-start-line="239" selection-start-column="41" selection-end-line="239" selection-end-column="41" />
+          <folding>
+            <marker date="1523991095230" expanded="true" signature="754:1874" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="886:1542" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="939:1351" ph="{...}" />
+            <marker date="1523991095230" expanded="true" signature="941:1351" ph="{...}" />
+            <marker date="1523991095230" expanded="true" signature="1056:1103" ph="{...}" />
+            <marker date="1523991095230" expanded="true" signature="1071:1099" ph="{...}" />
+            <marker date="1523991095230" expanded="true" signature="1148:1172" ph="{...}" />
+            <marker date="1523991095230" expanded="true" signature="1404:1522" ph="{...}" />
+            <marker date="1523991095230" expanded="true" signature="1551:1866" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="1605:1855" ph="{&quot;nextButton&quot;: \'.swiper-button-next3\'...}" />
+            <marker date="1523991095230" expanded="true" signature="7228:7539" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="7480:7533" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="8764:9030" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="8801:8924" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="8955:9030" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="8995:9030" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="9506:9772" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="9543:9660" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="9691:9772" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="9733:9772" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="10053:10096" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="20991:21029" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="22488:22890" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="22723:22890" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="23344:23416" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="23460:24316" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="23558:23747" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="23794:23980" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="24080:24269" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="24374:24566" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="24696:25114" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="24782:25114" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="24839:25114" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="24881:25114" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="24985:25114" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="25593:25627" ph="..." />
+            <marker date="1523991095230" expanded="true" signature="26163:26266" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/cart/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="76" column="32" lean-forward="false" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/cart/cart-totals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="50" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/checkout/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/cart/cart-shipping.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="33" column="118" lean-forward="false" selection-start-line="33" selection-start-column="118" selection-end-line="33" selection-end-column="118" />
+          <folding>
+            <marker date="1524004158064" expanded="true" signature="1158:1402" ph="..." />
+            <marker date="1524004158064" expanded="true" signature="1158:1458" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,100 @@
+.vote-block {
+  overflow: hidden;
+  margin: 0 10px 0 0;
+/*   padding-bottom: 20px; */
+  float: left;
+  vertical-align: middle;
+  position: relative;
+}
+.vote-block .rating-info {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 14px;
+  color: #000;
+  font-family: georgia, serif;
+}
+.vote-block span.rating-text {
+font-size: 14px;
+display: block;
+float: left;
+margin-left: 5px;
+}
+.vote-block .rating {
+  list-style: none;
+  margin: 0 10px 0 0;
+  padding: 0;
+  width: 80px;
+  height: 15px;
+  float: left;
+  vertical-align: middle;
+  background: none !important;
+}
+.vote-block .rating:hover li {
+  background-image: url("star.png");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .vote-block .rating:hover li {
+    background-image: url("star@2x.png");
+    background-size: 16px 45px !important;
+  }
+}
+.vote-block .rating li {
+  display: block;
+  width: 16px;
+  height: 15px;
+  float: right;
+  /* обтекание по правой стороне как раз необходимо для выстравания элементов  в обратном порядке */
+  text-indent: -9999px;
+  /* скрываем текст */
+  cursor: pointer;
+}
+.vote-block .rating li:hover,
+.vote-block .rating li:hover ~ li {
+  background-position: 0 -30px;
+}
+.vote-block.disabled .rating li.current {
+  display: block;
+  z-index: 10;
+}
+.vote-block .rating li.active,
+.vote-block .rating li.active ~ li {
+  background-position: 0 -30px;
+}
+.vote-block li.current {
+  display: none;
+}
+.vote-block ol.show-current {
+position: relative;
+padding: 0px !important;
+margin: 3px 0px 0px 0px !important;
+}
+.vote-block ol.show-current li {
+  cursor: default;
+  z-index: 2;
+  position: relative;
+}
+.vote-block ol.show-current li.current {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  z-index: 1;
+  background-position: 0 0;
+  background-repeat: repeat-x;
+  background-image: url("star.png");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .vote-block ol.show-current li.current {
+    background-image: url("star@2x.png");
+    background-size: 16px 45px !important;
+  }
+}
+.vote-block ol.show-current li.current span {
+  display: block;
+  height: 20px;
+  width: 0;
+  background: inherit;
+  background-position: 0 -30px;
+}

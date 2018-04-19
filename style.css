@@ -1,0 +1,280 @@
+/*
+ Theme Name:   Tata
+ Theme URI:    http://example.com/twenty-seventeen-child/
+ Description:  Tata Shop
+ Author:       Miha Oleh
+ Author URI:   https://vk.com/id12194648
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         shop, woocommerce
+ Text Domain:  unconference
+*/
+/*@import "css/style.css"; */
+
+
+/*Доделки*/
+
+.list_menu li.current_page_item a {
+    color: #277fbd;
+}
+.quantity {
+    vertical-align: top;
+}
+.btn_big_product_txt a {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 25px;
+}
+form.cart button.orng_btn {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 25px;
+}
+a.next.page-numbers {
+    background-color: #0099ce;
+    border-color: #0099CE;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+a.prev.page-numbers {
+    background-color: #0099ce;
+    border-color: #0099CE;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+span.page-numbers.current {
+    border: 2px solid #007FC0;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin: 0 3px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #277fbd;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    height: 30px;
+    width: 30px;
+    line-height: 26px;
+}
+table.characteristics tbody tr td {
+    text-transform: inherit;
+}
+.review .description p {
+    font-size: 13px;
+    line-height: 18.85px;
+}
+.displaynone {
+    display: none;
+}
+.info_product table.characteristics td {
+    padding: 3px 0;
+}
+i.fa.fa-chevron-down {
+    color: #277fbd;
+    font-size: 12px;
+}
+.reset_filter:before {
+    position: absolute;
+    left: 12%;
+    content: "\f00d";
+    font-family: FontAwesome;
+    text-align: center;
+    font-size: 18px;
+    margin-top: -2px;
+}
+a.next.page-numbers:after {
+    position: absolute;
+    z-index: 1;
+    top: 5%;
+    left: 36%;
+    content: "\f054";
+    font-family: FontAwesome;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+}
+a.prev.page-numbers:after {
+    position: absolute;
+    z-index: 1;
+    top: 5%;
+    left: 30%;
+    content: "\f053";
+    font-family: FontAwesome;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+}
+.view1:before {
+    position: absolute;
+    z-index: 1;
+    top: 25%;
+    left: 0;
+    content: "\f009";
+    font-family: FontAwesome;
+    text-align: center;
+    color: #bdbdbd;
+    font-size: 22px;;
+}
+.view1:hover:before {
+    position: absolute;
+    z-index: 1;
+    top: 25%;
+    left: 0;
+    content: "\f009";
+    font-family: FontAwesome;
+    text-align: center;
+    color: #3b8ac1;
+    font-size: 22px;
+}
+.view2:before {
+    position: absolute;
+    z-index: 1;
+    top: 25%;
+    left: 0;
+    content: "\f03a";
+    font-family: FontAwesome;
+    text-align: center;
+    color: #bdbdbd;
+    font-size: 22px;;
+}
+.view2:hover:before {
+    position: absolute;
+    z-index: 1;
+    top: 25%;
+    left: 0;
+    content: "\f03a";
+    font-family: FontAwesome;
+    text-align: center;
+    color: #3b8ac1;
+    font-size: 22px;
+}
+button.open_mob_nav:before {
+    position: absolute;
+    z-index: 1;
+    top: 25%;
+    left: 0;
+    content: "\f0c9";
+    text-align: center;
+    color: #3b8ac1;
+    font-size: 22px;
+    font-family: FontAwesome;
+}
+.cart-collaterals {
+    min-height: 40px;
+}
+span.woocommerce-Price-amount.amount {
+    float: left;
+}
+a.remove i {
+    color: #000;
+}
+form .quantity {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+form.cart button.orng_btn {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 25px;
+}
+input.button.hidden {
+    display: none;
+}
+
+
+
+/* Звезды в комментариях */
+.description .star-rating {
+    display: none !important;
+    opacity: 0 !important;
+}
+
+
+.stars_comment_on {
+    height: 18px;
+}
+.stars_comment_off #rating-styler {
+    opacity: 0 !important;
+}
+.stars_comment_off #rating {
+    opacity: 0 !important;
+}
+
+.stars_comment_off > p.stars{
+    margin-bottom: -18px;
+}
+
+
+
+.star-rating{float:left;overflow:hidden;position:relative;height:1em;line-height:18px;width: 103px;font: normal normal normal 14px/1 FontAwesome; font-size: 18px;}
+.star-rating:before{content:"\f006 \0000a0 \f006 \0000a0 \f006 \0000a0 \f006 \0000a0 \f006";color:#ffd000;float:left;top:0;left:0;position:absolute}.star-rating span{overflow:hidden;float:left;top:0;left:0;position:absolute;padding-top:1.5em}
+.star-rating span:before{content:"\f005 \0000a0 \f005 \0000a0 \f005 \0000a0 \f005 \0000a0 \f005";color:#ffd000;top:0;position:absolute;left:0}
+
+
+.stars a::before,.stars a:hover~a::before{color:#ffd000;content:'\f006'}
+.stars a{position:relative;height:18px;width:22px;text-indent:-999em;display:inline-block;text-decoration:none}.stars a::before{display:block;position:absolute;top:0;left:0;width:1em;height:1em;line-height:1;font: normal normal normal 14px/1 FontAwesome; font-size: 18px;text-indent:0;color:#ccc}
+.stars.selected a.active::before,.stars:hover a::before{color:#ffd000;content:'\f005'}.stars.selected a.active~a::before{color:#ffd000;content:'\f006'}.stars.selected a:not(.active)::before{color:#ffd000;content:'\f005'}
+
+
+
+#modal_basket .p_modal_short_description{
+    max-width: 400px;
+    color: #919191;
+    margin-top: 15px;
+}
+
+
+/* Товар внутрення */
+.wrap_big_product .pwb-single-product-brands {
+    display: none;
+}
+
+
+/* Update cart */
+.wrap_basket button.button {
+    opacity: 0;
+    height: 0;
+    width: 0;
+}
+
+.wrap_checkout_total {
+    margin-bottom: 13px;
+}
+
+
+.search-header {
+    margin-bottom: 30px;
+}
+
+.cart_mar_bot_my_ficset {
+    height: 60px;
+}
+
+.item_checkout_total.cart_totals span.woocommerce-Price-amount.amount{
+    float: right;
+    margin-left: 10px;
+}
+
+
+
+.iner_product_a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: #fff;
+}
+
+
+.iner_product_a > img {
+    max-width: none;
+    min-height: 100%;
+    max-height: 100%;
+    height: 100%;
+    width: auto;
+}
