@@ -3148,15 +3148,3 @@ i.fa.fa-question-circle-o {
     color: #277fbd;
 }
 
-
-
-.irs-with-grid .irs-grid {
-    display: none!important;
-}
-
- .irs-from, .irs-to, .irs-single {
-     background: #ff9900 !important;
- }
-.irs-from:after, .irs-to:after, .irs-single:after {
-    border-top-color: #ff9900!important;
-}
